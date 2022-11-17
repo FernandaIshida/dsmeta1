@@ -1,6 +1,6 @@
-import icon from '../../assets/img/notification-icon.svg'
+import icon from '../../assets/img/notification-icon.svg' //pasta anterior ..
 
-import './styles.css'
+import './styles.css' //mesma pasta .
 
 function NotificationButton() {
     return (
